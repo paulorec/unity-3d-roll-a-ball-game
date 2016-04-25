@@ -1,0 +1,17 @@
+/Users/paulo/dev/unity/Roll a ball/Temp/bin/Debug/UnityEngine.dll
+/Users/paulo/dev/unity/Roll a ball/Temp/bin/Debug/UnityEditor.dll
+/Users/paulo/dev/unity/Roll a ball/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/paulo/dev/unity/Roll a ball/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/paulo/dev/unity/Roll a ball/Temp/bin/Debug/Mono.Cecil.dll
+/Users/paulo/dev/unity/Roll a ball/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/paulo/dev/unity/Roll a ball/Temp/bin/Debug/Unity.DataContract.dll
+/Users/paulo/dev/unity/Roll a ball/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/paulo/dev/unity/Roll a ball/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/paulo/dev/unity/Roll a ball/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/paulo/dev/unity/Roll a ball/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/paulo/dev/unity/Roll a ball/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/paulo/dev/unity/Roll a ball/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/paulo/dev/unity/Roll a ball/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/paulo/dev/unity/Roll a ball/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/paulo/dev/unity/Roll a ball/obj/Debug/Assembly-CSharp.dll
+/Users/paulo/dev/unity/Roll a ball/obj/Debug/Assembly-CSharp.dll.mdb
